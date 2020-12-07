@@ -1,0 +1,52 @@
+name: kandy
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^0.13.4+2
+  url_launcher: ^5.4.2
+  
+  carousel_slider:
+  bottom_navy_bar: 
+    git: 
+      url: git://github.com/MrbeanN513/bottom_navy_bar.git
+      ref: master
+  better_player:
+    git:
+      url: git://github.com/MrbeanN513/betterplayer.git 
+      ref: master
+  expandable_card: ^0.0.3+1
+  cupertino_icons: 
+  font_awesome_flutter: ^8.2.0
+  dio: ^1.0.13
+  firebase_auth: ^0.14.0+5
+  firebase_database: ^3.0.7
+  cached_network_image: ^2.2.0+1
+  connectivity_widget:
+  firebase_messaging: ^6.0.16 
+  path_provider:
+  optimized_cached_image:
+  carousel_pro:
+  folding_cell:
+  extended_nested_scroll_view:
+  flutter_screen_scaler:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/Netflix-logo.png
+    - images/netflix_icon.png
+    - images/launch_image.png
+    - images/pro_pic.png
+   
