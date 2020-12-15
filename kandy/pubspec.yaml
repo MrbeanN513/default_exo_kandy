@@ -34,7 +34,6 @@ dependencies:
   optimized_cached_image:
   carousel_pro:
   folding_cell:
-  extended_nested_scroll_view:
   flutter_screen_scaler:
 
 dev_dependencies:
