@@ -13,7 +13,7 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "60afdb5707d88670c68ead6a94bf7e9624482766"
+      resolved-ref: "813291cc12ad6df3f67e61f43f567b75ebfe35e8"
       url: "git://github.com/MrbeanN513/betterplayer.git"
     source: git
     version: "0.0.36"
